@@ -1,2 +1,2 @@
 # Act_funciones_5J
-ejemplo de funciones w3school
+Ejemplo de funciones W3school
